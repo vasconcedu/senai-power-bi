@@ -15,5 +15,4 @@ Criar 4 novas tabelas, para descobrir:
 1. A quantidade de produtos vendidos por estado;
 2. A média de ticket total por pedido;
 3. A forma de pagamento mais usada;
-4. O estado onde foi vendido o produto mais caro;
-5. A região com o maior número de vendas.
+4. A região com o maior número de vendas.
